@@ -1,0 +1,3 @@
+# Kapos_calculation_example
+
+Kaposが示した局所起伏幅をDEMデータより計算する例を示します。
